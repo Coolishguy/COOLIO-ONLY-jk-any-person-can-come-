@@ -1,0 +1,6 @@
+Eat food = True
+Eat food = False
+if True:
+ print ("You are eating food")
+else:
+ print ("You are not eating food")
